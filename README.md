@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Product of learning basics of Python
+Product of learning basics of Python.
 
 ## Built With
 * PyCharm
