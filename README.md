@@ -18,5 +18,5 @@ This project is licensed under MIT License - see the [LICENSE.md](LICENSE.md) fi
 
 ## Acknowledgments
 
-Thanks to great sprite artist [https://lukasahl1.deviantart.com/](LukasAhl1).
+Thanks to great sprite artist [LukasAhl1](https://lukasahl1.deviantart.com/).
 And some unknown music creators.
